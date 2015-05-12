@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Lightiam.github.io
+title: Burning issues
+tagline: A log of everyday life
+description: Where burning issues are shared for solution by different contributions across board.
+paginate: 5
